@@ -3,4 +3,5 @@ encoding//src/TestComponentA.py=utf-8
 encoding//src/TestComponentB.py=utf-8
 encoding/TestPythonComponent.py=utf-8
 encoding/create_manifest.py=utf-8
+encoding/create_oxt.py=utf-8
 encoding/create_rdb_from_idl.py=utf-8
