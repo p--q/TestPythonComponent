@@ -1,8 +1,8 @@
 eclipse.preferences.version=1
 encoding//src/TestComponentA.py=utf-8
 encoding//src/TestComponentB.py=utf-8
+encoding//tools/createManifest.py=utf-8
+encoding//tools/createOXT.py=utf-8
+encoding//tools/createRDB.py=utf-8
+encoding//tools/depoyOXT.py=utf-8
 encoding/TestPythonComponent.py=utf-8
-encoding/createManifest.py=utf-8
-encoding/createRDB.py=utf-8
-encoding/create_oxt.py=utf-8
-encoding/depoy_oxt.py=utf-8
