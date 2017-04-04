@@ -3,7 +3,7 @@
 import os
 import sys
 import xml.etree.ElementTree as ET
-from create_rdb_from_idl import BASE_NAME  # create_rdb_from_idl.pyからuno.rdb、.componentsファイル名を取得。
+from createRDB import BASE_NAME  # create_rdb_from_idl.pyからuno.rdb、.componentsファイル名を取得。
 
 # tuples of a list of Python UNO Component Files: (file name,service implementation name, service name)
 LST = [

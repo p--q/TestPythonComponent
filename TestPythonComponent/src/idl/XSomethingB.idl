@@ -42,6 +42,7 @@ module com {  module sun {  module star {  module test {
     interface XSomethingB {
         string methodTwo([in]string value);
     };
+    
 }; }; }; };
 
 #endif
