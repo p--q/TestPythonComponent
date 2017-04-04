@@ -1,2 +1,8 @@
 eclipse.preferences.version=1
-encoding/idltordb.py=utf-8
+encoding//src/TestComponentA.py=utf-8
+encoding//src/TestComponentB.py=utf-8
+encoding//tools/createManifest.py=utf-8
+encoding//tools/createOXT.py=utf-8
+encoding//tools/createRDB.py=utf-8
+encoding//tools/depoyOXT.py=utf-8
+encoding/TestPythonComponent.py=utf-8
